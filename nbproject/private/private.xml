@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/Product.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/OrderItem.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/views/LoginForm.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/Client.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/views/UserForm.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/OrderDAO.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/supermarket/SuperMarket.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/views/ClientForm.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/ClientDAO.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/ICrud.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/Order.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/views/SaleForm.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/views/Principal.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/views/ProductForm.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/Conexion.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/ProductDAO.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/User.java</file>
+            <file>file:/home/daniel/NetBeansProjects/SuperMarket/src/models/UserDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
